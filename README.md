@@ -5,8 +5,8 @@ The goal of this project was to build a program using hadoop eco system that wil
 Input for this program takes in text file and process all the information of cards present in the deck to generate an output text file with missing cards.
 
 # Technologies/Libraries used:
-Apache Hadoop
+• Apache Hadoop
 
-Mapreduce
+• Mapreduce
 
-Java
+• Java
